@@ -1,0 +1,12 @@
+This is Django Book Store project.In this project you can create
+1.book
+2.Book Author
+3.Book Title
+4.Book Publised Date
+5.Edit Book
+6.Delete Book
+7.Show Details
+8.Login
+9.Register and So on.
+
+All of this Are Designed HTML,CSS,Boot Strap and Django.
